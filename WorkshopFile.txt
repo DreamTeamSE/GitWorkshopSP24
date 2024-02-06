@@ -4,4 +4,11 @@ Xavier Velez
 Raiden Williams
 Annie Michel
 Gaby Smith
+<<<<<<< HEAD
+
+=======
+Jane Doe
+Max Martin
+Luke Skywalker
+>>>>>>> main
 Veronica Ramos
